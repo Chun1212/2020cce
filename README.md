@@ -1,6 +1,6 @@
 # 2020cce
 ## 進階題:分式化簡
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -17,9 +17,9 @@ int main()
 	printf("%d %d\n",m,n);
 	return 0;
 }
-ˋˋˋ
+```
 ## 進階題：讀入整數反序列印
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -36,9 +36,9 @@ int main()
 	printf("%d %d\n",m,n);
 	return 0;
 }
-ˋˋˋ
+```
 ## 進階題：A的B次方函數
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -55,9 +55,9 @@ int main()
 	printf("%d %d\n",m,n);
 	return 0;
 }
-ˋˋˋ
+```
 ## 進階題：漸增數列相加 
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -72,9 +72,9 @@ int main()
 	}
 	printf("%d\n",n);
 }
-ˋˋˋ
+```
 ## 基礎題：找零錢
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -82,9 +82,9 @@ int main()
 	scanf("%d",&n);
 	printf("%d=50*%d+5*%d+1*%d\n",n,n/50,n%50/5,n%50%5);
 }
-ˋˋˋ
+```
 ## 基礎題：因數個數
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -98,9 +98,9 @@ int main()
 	}
 	printf("%d\n",k);
 }
-ˋˋˋ
+```
 ## 基礎題：找倍數 
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -113,10 +113,10 @@ int main()
 	}
 	printf("%d\n",k);
 }
-ˋˋˋ
+```
 
 ## 基礎題：整數轉換為等級 
-ˋˋˋC
+```C
 #include <stdio.h>
 int main()
 {
@@ -127,4 +127,4 @@ int main()
 	else if(n>=60)printf("C\n");
 	else if(n<60)printf("F\n");
 }
-ˋˋˋ
+```
