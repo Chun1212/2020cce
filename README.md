@@ -128,7 +128,7 @@ int main()
 	else if(n<60)printf("F\n");
 }
 ```
-###week2-1
+##week2-1
 ```C
 #include<stdio.h>
 int main()
@@ -142,7 +142,7 @@ int main()
     return 0;
 }
 ```
-###week2-2
+##week2-2
 ```C
 #include<stdio.h>
 int main()
@@ -161,7 +161,7 @@ int main()
     return 0;
 }
 ```
-###week2-3
+##week2-3
 ```C
 #include<stdio.h>
 int main()
