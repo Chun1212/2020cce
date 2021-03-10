@@ -129,6 +129,7 @@ int main()
 }
 ```
 ##week2-1
+
 ```C
 #include<stdio.h>
 int main()
@@ -143,6 +144,7 @@ int main()
 }
 ```
 ##week2-2
+
 ```C
 #include<stdio.h>
 int main()
@@ -162,6 +164,7 @@ int main()
 }
 ```
 ##week2-3
+
 ```C
 #include<stdio.h>
 int main()
